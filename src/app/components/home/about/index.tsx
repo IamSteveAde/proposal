@@ -84,7 +84,7 @@ export default function Proposal() {
             <p className="mt-4 text-slate-300 leading-relaxed">
               Dinner. Properly addressed.  
               An evening of exceptional cuisine in IKOKO Restaurant, Ikeja, Lagos.  
-              Sunday at 7:00 PM.  
+              Sunday at 6:00 PM.  
               A table reserved for two.
             </p>
           </motion.div>
@@ -123,7 +123,7 @@ export default function Proposal() {
     href={`mailto:adediranstephen2000@gmail.com?subject=Proposal Response&body=Dear Stephen,%0D%0A%0D%0AI require further persuasion regarding your proposal.%0D%0A%0D%0ARegards,%0D%0AKenethe`}
     className="rounded-full border border-amber-400/40 px-8 py-3 text-amber-300 hover:bg-amber-400/10 transition"
   >
-    Hmmm....I Accept
+    Hmmm....I Accept, But Let's Reschedule
   </a>
 </motion.div>
       </div>
