@@ -15,11 +15,11 @@ const dmsans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    default: "Digital Inclusion Initiative",
-    template: "%s | Digital Inclusion Initiative",
+    default: "Kenetheboss Proposal",
+    template: "%s | Kenetheboss",
   },
   description:
-    "Digital Inclusion Initiative works to expand digital access, build skills, and create opportunities for women and underserved communities through technology.",
+    "A proposal directed towards Kenetheboss",
 };
 
 export default function RootLayout({
