@@ -59,7 +59,7 @@ export default function Hero() {
           className="mt-12 text-slate-400 text-base tracking-wide"
         >
           <p>Sunday • 6:00 PM</p>
-          <p className="mt-2 text-amber-300">Victoria Island, Lagos</p>
+          <p className="mt-2 text-amber-300">Ikoko Restaurant, Ikeja, Lagos</p>
         </motion.div>
 
         {/* CTA */}
