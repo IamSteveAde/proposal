@@ -32,7 +32,7 @@ export default function Hero() {
           transition={{ duration: 1, delay: 0.1 }}
           className="mt-6 text-4xl md:text-6xl font-light leading-tight text-white"
         >
-          Dinner, Kenethe.
+          Dinner, Kenetheboss.
           <span className="block font-serif italic text-amber-300 mt-4">
             Properly addressed this time.
           </span>
