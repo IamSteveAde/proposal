@@ -2,14 +2,9 @@ import { Metadata } from "next";
 
 // Home sections
 import Hero from "./components/home/hero";
-import Chatbot from "./components/ChatbotEmbed";
+
 import About from "./components/home/about";
-import DiscoverProperties from "./components/home/property-option"; // mentor / platform section
-import Listing from "./components/home/property-list";
-import Testimonials from "./components/home/testimonial";
-import History from "./components/home/history";
-import Calculator from "./components/home/calculator";
-import Info from "./components/home/info";
+
 
 
 // Global components
@@ -94,21 +89,7 @@ export default function Home() {
       <Hero />
       <About />
 
-      {/* Platform / WhatsApp / AI section */}
-      <DiscoverProperties />
-
-      {/* Workforce scope / industries / roles */}
-      <Listing />
-
-      {/* Trust & social proof */}
-      <Testimonials />
-
-      {/* Company journey, capability & infrastructure */}
-      <History />
-      <Info />
-      <Calculator />
       
-       <Chatbot />
       
     </main>
   );
