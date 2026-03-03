@@ -113,14 +113,14 @@ export default function Proposal() {
   className="mt-10 flex justify-center gap-6"
 >
   <a
-    href={`mailto:adediranstephen2000@gmail.com?subject=Proposal Accepted&body=Dear Stephen,%0D%0A%0D%0AI accept your dinner proposal for Sunday at 7:00 PM.%0D%0A%0D%0ARegards,%0D%0AKenethe`}
+    href={`mailto:stephenadediran2000@gmail.com?subject=Proposal Accepted&body=Dear Stephen,%0D%0A%0D%0AI accept your dinner proposal for Sunday at 6:00 PM.%0D%0A%0D%0ARegards,%0D%0AKenetheboss`}
     className="rounded-full bg-amber-400 px-8 py-3 text-black font-medium hover:scale-105 transition"
   >
     I Accept
   </a>
 
   <a
-    href={`mailto:adediranstephen2000@gmail.com?subject=Proposal Response&body=Dear Stephen,%0D%0A%0D%0AI require further persuasion regarding your proposal.%0D%0A%0D%0ARegards,%0D%0AKenethe`}
+    href={`mailto:stephenadediran2000@gmail.com?subject=Proposal Response&body=Dear Stephen,%0D%0A%0D%0ALet's reschedule for.......%0D%0A%0D%0ARegards,%0D%0AKenetheboss`}
     className="rounded-full border border-amber-400/40 px-8 py-3 text-amber-300 hover:bg-amber-400/10 transition"
   >
     Hmmm....I Accept, But Let's Reschedule
