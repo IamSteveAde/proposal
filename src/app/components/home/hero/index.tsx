@@ -58,7 +58,7 @@ export default function Hero() {
           transition={{ duration: 1, delay: 0.3 }}
           className="mt-12 text-slate-400 text-base tracking-wide"
         >
-          <p>Saturday • 7:00 PM</p>
+          <p>Sunday • 6:00 PM</p>
           <p className="mt-2 text-amber-300">Victoria Island, Lagos</p>
         </motion.div>
 
