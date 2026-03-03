@@ -6,7 +6,7 @@ import { ThemeProvider } from "next-themes";
 import NextTopLoader from "nextjs-toploader";
 
 import { AppContextProvider } from "../context-api/PropertyContext";
-import ChatbotEmbed from "./components/ChatbotEmbed";
+
 
 import ScrollToTop from "./components/scroll-to-top";
 import Aoscompo from "@/utils/aos";
@@ -39,8 +39,7 @@ export default function RootLayout({
             
             </Aoscompo>
 
-            {/* ✅ Global Chatbot */}
-            <ChatbotEmbed />
+           
           </ThemeProvider>
         </AppContextProvider>
       </body>
