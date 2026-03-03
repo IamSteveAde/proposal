@@ -67,7 +67,7 @@ export default function Proposal() {
               The Plea
             </h3>
             <p className="mt-4 text-slate-300 leading-relaxed">
-              Guilty — with no defense sufficient enough to justify it.
+              Guilty, with no defense sufficient enough to justify it.
             </p>
           </motion.div>
 
